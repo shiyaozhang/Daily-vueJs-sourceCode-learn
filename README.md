@@ -15,9 +15,9 @@ PS：Vue3.0将于今年公布真正可用版本，届时将会有大量使用变
 
 [初识flow](./docs/flow.md)
 
-[Vue.js构建及初始化](./docs/build.md)
+[Vue.js构建及结构](./docs/build.md)
 
-...
+[Vue.js初始化过程](./docs/initialization.md)
 
 ### Vue-router
 
